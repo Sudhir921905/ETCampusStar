@@ -35,6 +35,7 @@ public class PastEditionTest extends TestBase{
 	@Test
 	public void verifyEdition201920() {
 		pasteditionpage.edition201920();
+		System.out.println("Run Successfully");
 	}
 	
 	@AfterMethod
